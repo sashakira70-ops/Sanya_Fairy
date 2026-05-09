@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/kali/lab6_opencv/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
