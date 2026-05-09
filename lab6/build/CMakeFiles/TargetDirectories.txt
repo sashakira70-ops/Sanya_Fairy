@@ -1,0 +1,3 @@
+/home/kali/lab6_opencv/build/CMakeFiles/Lab6.dir
+/home/kali/lab6_opencv/build/CMakeFiles/edit_cache.dir
+/home/kali/lab6_opencv/build/CMakeFiles/rebuild_cache.dir
