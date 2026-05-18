@@ -1,0 +1,7 @@
+cat << 'EOF' > lab3/requirements.txt
+pandas
+numpy
+matplotlib
+seaborn
+jupyter
+EOF
